@@ -205,7 +205,7 @@ rebuild_firmware() {
         fdisk hostapd-common iw iwinfo perlbase-base perlbase-file perlbase-time perlbase-utf8 perlbase-xsloader \
         jshn kmod-brcmfmac kmod-brcmutil kmod-cfg80211 kmod-mac80211 libjson-script liblucihttp \
         liblucihttp-lua mkf2fs partx-utils ppp ppp-mod-pppoe \
-        uclient-fetch uhttpd uhttpd-mod-ubus uqmi wpad-basic wpad-basic-mbedtls wwan \
+        uclient-fetch uhttpd uhttpd-mod-ubus uqmi wpad-basic wwan \
         luci luci-base luci-compat luci-i18n-base-zh-cn luci-lib-base \
         luci-lib-ip luci-lib-ipkg luci-lib-jsonc luci-lib-nixio luci-mod-admin-full luci-mod-network \
         luci-mod-status luci-mod-system luci-proto-ipv6 luci-proto-ppp \
